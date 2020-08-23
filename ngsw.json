@@ -1,0 +1,92 @@
+{
+  "configVersion": 1,
+  "timestamp": 1598204489587,
+  "index": "https://musammil007.github.io/angularStarter/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://musammil007.github.io/angularStarter/favicon.ico",
+        "https://musammil007.github.io/angularStarter/index.html",
+        "https://musammil007.github.io/angularStarter/main-es2015.6f256d17348151728628.js",
+        "https://musammil007.github.io/angularStarter/main-es5.6f256d17348151728628.js",
+        "https://musammil007.github.io/angularStarter/manifest.json",
+        "https://musammil007.github.io/angularStarter/polyfills-es2015.37ead416d11295dd83b7.js",
+        "https://musammil007.github.io/angularStarter/polyfills-es5.7e90ac317ddea63d986c.js",
+        "https://musammil007.github.io/angularStarter/runtime-es2015.0dae8cbc97194c7caed4.js",
+        "https://musammil007.github.io/angularStarter/runtime-es5.0dae8cbc97194c7caed4.js",
+        "https://musammil007.github.io/angularStarter/styles.211056094c11fb6fbb92.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://musammil007.github.io/angularStarter/assets/ngx-rocket-logo.png",
+        "https://musammil007.github.io/angularStarter/assets/ngx-rocket-logo@192.png",
+        "https://musammil007.github.io/angularStarter/fa-brands-400.1776173e3b1af55eb455.ttf",
+        "https://musammil007.github.io/angularStarter/fa-brands-400.28d8b8fcc41c3b7134ff.woff",
+        "https://musammil007.github.io/angularStarter/fa-brands-400.37913cdf7cb0571dfac0.woff2",
+        "https://musammil007.github.io/angularStarter/fa-brands-400.bfcc3384b8a317dc5de3.eot",
+        "https://musammil007.github.io/angularStarter/fa-regular-400.0c6f12b9eaa2ad444a6b.eot",
+        "https://musammil007.github.io/angularStarter/fa-regular-400.c3c2ab4f63b8d9973c78.woff2",
+        "https://musammil007.github.io/angularStarter/fa-regular-400.c9c57c0f1f4eb34dbf57.ttf",
+        "https://musammil007.github.io/angularStarter/fa-regular-400.fcaa6c135683a3fa1b50.woff",
+        "https://musammil007.github.io/angularStarter/fa-solid-900.22aa6d4357cf74671bc4.woff",
+        "https://musammil007.github.io/angularStarter/fa-solid-900.4055b0575d40bfb3c7e8.woff2",
+        "https://musammil007.github.io/angularStarter/fa-solid-900.a480ec972cb6bce30533.ttf",
+        "https://musammil007.github.io/angularStarter/fa-solid-900.dfaa060a451d978c2565.eot"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://musammil007.github.io/angularStarter/assets/ngx-rocket-logo.png": "0ac53fd27406fe5a36e68285315fb0012e54058e",
+    "https://musammil007.github.io/angularStarter/assets/ngx-rocket-logo@192.png": "461b730f9c6dc818f8af9acbe62dfde24dc02d7a",
+    "https://musammil007.github.io/angularStarter/fa-brands-400.1776173e3b1af55eb455.ttf": "29f59b4eecc72052d9110a5d4030a10ad9bf73d7",
+    "https://musammil007.github.io/angularStarter/fa-brands-400.28d8b8fcc41c3b7134ff.woff": "fddb95d7a0f48d2bf90a5ee3095e8264dca18053",
+    "https://musammil007.github.io/angularStarter/fa-brands-400.37913cdf7cb0571dfac0.woff2": "62584b9868428fd75af3fc5ee2f9918dda428be5",
+    "https://musammil007.github.io/angularStarter/fa-brands-400.bfcc3384b8a317dc5de3.eot": "40c8f2a0dc154160fde50e0c27f694f12c7b1636",
+    "https://musammil007.github.io/angularStarter/fa-regular-400.0c6f12b9eaa2ad444a6b.eot": "3306178c90d9df939d2a5eabf533ba3650fbe80e",
+    "https://musammil007.github.io/angularStarter/fa-regular-400.c3c2ab4f63b8d9973c78.woff2": "5e4d45052f43e55aaad7f14d13280215e39aa45b",
+    "https://musammil007.github.io/angularStarter/fa-regular-400.c9c57c0f1f4eb34dbf57.ttf": "517a3b41c1e01b65898b5f1074434d43a361a54f",
+    "https://musammil007.github.io/angularStarter/fa-regular-400.fcaa6c135683a3fa1b50.woff": "da17a9f1dcae379c8ba20f1089059c202216cba7",
+    "https://musammil007.github.io/angularStarter/fa-solid-900.22aa6d4357cf74671bc4.woff": "f13e252f8a51a5279fd21e26ada0bd2f55bcefd8",
+    "https://musammil007.github.io/angularStarter/fa-solid-900.4055b0575d40bfb3c7e8.woff2": "6290834672aba86d5b6c1c73b30b57c9c53996f7",
+    "https://musammil007.github.io/angularStarter/fa-solid-900.a480ec972cb6bce30533.ttf": "874c650701d0cbfb8f1de48a496dabed3bbf22e6",
+    "https://musammil007.github.io/angularStarter/fa-solid-900.dfaa060a451d978c2565.eot": "96a5637429426764ea9b28bf4d1eb55ae10de57e",
+    "https://musammil007.github.io/angularStarter/favicon.ico": "b65083d46bbf63692d5d2cdd69622e6d7ecae317",
+    "https://musammil007.github.io/angularStarter/index.html": "ab57c8c05d83688f5cdf428ec4c785d3b8548a3d",
+    "https://musammil007.github.io/angularStarter/main-es2015.6f256d17348151728628.js": "daabf41ddc24a8512a610993859a91e2983ed08e",
+    "https://musammil007.github.io/angularStarter/main-es5.6f256d17348151728628.js": "9abd98d51cb234645b205da25aeb27f16a9ba72d",
+    "https://musammil007.github.io/angularStarter/manifest.json": "f54ed5c1c5dcee2cedff4fbd6675f7b94922623d",
+    "https://musammil007.github.io/angularStarter/polyfills-es2015.37ead416d11295dd83b7.js": "ec7fbbb21d60ed745a935ee42a55cb3e10ba1aa9",
+    "https://musammil007.github.io/angularStarter/polyfills-es5.7e90ac317ddea63d986c.js": "e2b0a7becc6c94bf5e79ffca300f382069ea5cf3",
+    "https://musammil007.github.io/angularStarter/runtime-es2015.0dae8cbc97194c7caed4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://musammil007.github.io/angularStarter/runtime-es5.0dae8cbc97194c7caed4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://musammil007.github.io/angularStarter/styles.211056094c11fb6fbb92.css": "62f2908c3fb425c610284d1980f07e3cc5fbfc5d"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
